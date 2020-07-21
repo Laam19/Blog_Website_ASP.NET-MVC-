@@ -8,10 +8,10 @@ using Blog_website_Asp.Net.ViewModels;
 
 namespace Blog_website_Asp.Net.Controllers
 {
-    public class AuthConroller:Controller
+    public class AuthController:Controller
     {
         private SignInManager<IdentityUser> _signInManager;
-        public AuthConroller(SignInManager<IdentityUser> signInManager)
+        public AuthController(SignInManager<IdentityUser> signInManager)
         {
             _signInManager = signInManager;
         }

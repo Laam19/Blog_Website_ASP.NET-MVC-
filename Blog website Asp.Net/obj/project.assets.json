@@ -9321,11 +9321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Blog website Asp.Net\\Blog website Asp.Net\\Blog website Asp.Net.csproj",
+      "projectUniqueName": "D:\\BlogWebsite\\Blog website Asp.Net\\Blog website Asp.Net.csproj",
       "projectName": "Blog website Asp.Net",
-      "projectPath": "D:\\Blog website Asp.Net\\Blog website Asp.Net\\Blog website Asp.Net.csproj",
+      "projectPath": "D:\\BlogWebsite\\Blog website Asp.Net\\Blog website Asp.Net.csproj",
       "packagesPath": "C:\\Users\\akibk\\.nuget\\packages\\",
-      "outputPath": "D:\\Blog website Asp.Net\\Blog website Asp.Net\\obj\\",
+      "outputPath": "D:\\BlogWebsite\\Blog website Asp.Net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
