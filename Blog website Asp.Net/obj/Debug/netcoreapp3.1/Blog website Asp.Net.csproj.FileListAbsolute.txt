@@ -1,0 +1,155 @@
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.StaticWebAssets.xml
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.exe
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.deps.json
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.runtimeconfig.json
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.runtimeconfig.dev.json
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.pdb
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.Views.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Blog website Asp.Net.Views.pdb
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.csprojAssemblyReference.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.csproj.CoreCompileInputs.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.MvcApplicationPartsAssemblyInfo.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.MvcApplicationPartsAssemblyInfo.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.RazorAssemblyInfo.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.RazorAssemblyInfo.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.AssemblyInfoInputs.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.AssemblyInfo.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.TagHelpers.input.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.TagHelpers.output.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.RazorCoreGenerate.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\Home\post.cshtml.g.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.RazorTargetAssemblyInfo.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.RazorTargetAssemblyInfo.cs
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.Views.pdb
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.csproj.CopyComplete
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\staticwebassets\Blog website Asp.Net.StaticWebAssets.Manifest.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\staticwebassets\Blog website Asp.Net.StaticWebAssets.xml
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.dll
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.pdb
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Blog website Asp.Net.genruntimeconfig.cache
+D:\Blog website Asp.Net\Blog website Asp.Net\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
