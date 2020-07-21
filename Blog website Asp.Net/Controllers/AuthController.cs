@@ -24,7 +24,7 @@ namespace Blog_website_Asp.Net.Controllers
         public async Task<IActionResult> Login(LogInViewModel vm)
         {
             var result= await _signInManager.PasswordSignInAsync(vm.UserName, vm.password, false, false);
-            return RedirectToAction("index", "Home");
+            return RedirectToAction("index", "Panel");
         }
         [HttpGet]
         public async Task<IActionResult> Logout()

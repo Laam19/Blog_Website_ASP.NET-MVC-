@@ -33,7 +33,7 @@ namespace Blog_website_Asp.Net
             services.AddDbContext<AppDbContext>
                 (options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllersWithViews();
-            services.AddDefaultIdentity<IdentityUser>(options =>
+            services.AddIdentity<IdentityUser, IdentityRole>(options =>
             {
                 options.Password.RequireDigit = false;
                 options.Password.RequireUppercase = false;
@@ -41,8 +41,12 @@ namespace Blog_website_Asp.Net
                 options.Password.RequiredLength= 6;
             })
             
-                .AddRoles<IdentityRole>()
+                //.AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<AppDbContext>();
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath="/Auth/Login";
+            });
                 
             services.AddTransient<IRepository, Repository>();
             services.AddMvc(option => option.EnableEndpointRouting = false);
