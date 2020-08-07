@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Blog_website_Asp.Net.Data;
+using Blog_website_Asp.Net.Data.FileManager;
 using Blog_website_Asp.Net.Data.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -49,6 +50,7 @@ namespace Blog_website_Asp.Net
             });
                 
             services.AddTransient<IRepository, Repository>();
+            services.AddTransient<IFileManager, FileManager>();
             services.AddMvc(option => option.EnableEndpointRouting = false);
         }
 

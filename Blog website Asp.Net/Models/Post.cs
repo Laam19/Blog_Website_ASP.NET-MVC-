@@ -11,6 +11,7 @@ namespace Blog_website_Asp.Net.Models
         public int Id { get; set; } 
         public string Title { get; set; } = "";
         public string Body { get; set; } = "";
+        public string Image { get; set; } = "";
         public DateTime created { get; set; } = DateTime.Now;
     }
 }
